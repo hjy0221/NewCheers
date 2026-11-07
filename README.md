@@ -4,49 +4,51 @@
 
 ## 日本語
 
-NeWCheers は、チームメンバー同士で応援メッセージを送り合う流れを試す SwiftUI 製 iOS プロトタイプです。
+NeWCheersは、チームメンバーと応援メッセージを送受信するフローを試したSwiftUIベースのiOSプロジェクトです。
 
-### 主な画面
+### メイン画面
 
-- ログインと新規登録
-- メンバーの選択、シャッフル、スキップ
-- 受信通知と応援相手の確認
+- ログインと会員登録
+- チームメンバー選択とシャッフル・スキップ動作
+- 受け取った通知リストと応援対象確認
 - プロフィールとマイページ
-- `NavigationStack` による画面遷移
+- `NavigationStack`を使った画面移動
 
-### 実行方法
+### を実行する
 
-1. Xcode で `Cheers.xcodeproj` を開きます。
-2. iOS シミュレーターまたは接続したデバイスを選択します。
-3. Run ボタンでアプリを起動します。
+1. Xcodeで`Cheers.xcodeproj`を開きます。
+2. 目的のiOS Simulatorまたは接続機器を選択します。
+3. Runボタンを押してアプリを起動します。
 
-### 技術
-
-Swift、SwiftUI、Xcode。
-
-## English
-
-NeWCheers is a SwiftUI iOS prototype that explores a flow for exchanging supportive messages with teammates.
-
-### Main screens
-
-- Sign in and sign up
-- Teammate selection with shuffle and skip actions
-- Received notification list and recipient confirmation
-- Profile and account pages
-- Screen navigation built with `NavigationStack`
-
-### Run locally
-
-1. Open `Cheers.xcodeproj` in Xcode.
-2. Select an iOS Simulator or a connected device.
-3. Press Run to launch the app.
-
-### Tech stack
+### 技術スタック
 
 - Swift
 - SwiftUI
 - Xcode
+
+## English
+
+NeWCheers is a SwiftUI-based iOS project that experiments with the flow of exchanging cheering messages with team members.
+
+### Main screen
+
+- Login and sign up
+- Team member selection and shuffle/skip actions
+- Check the list of notifications received and the target of support
+- Profile and My Page
+- Move screen using `NavigationStack`
+
+### Run
+
+1. Open `Cheers.xcodeproj` in Xcode.
+2. Select your desired iOS Simulator or connected device.
+3. Click the Run button to run the app.
+
+### Technology Stack
+
+-Swift
+-SwiftUI
+-Xcode
 
 ## 한국어
 
