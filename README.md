@@ -4,6 +4,8 @@
 
 ## 日本語
 
+[日本語](https://github.com/hjy0221/NewCheers#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/NewCheers#english) · [한국어](https://github.com/hjy0221/NewCheers#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 NeWCheersは、チームメンバーと応援メッセージを送受信するフローを試したSwiftUIベースのiOSプロジェクトです。
 
 ### メイン画面
@@ -28,6 +30,8 @@ NeWCheersは、チームメンバーと応援メッセージを送受信する�
 
 ## English
 
+[日本語](https://github.com/hjy0221/NewCheers#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/NewCheers#english) · [한국어](https://github.com/hjy0221/NewCheers#%ED%95%9C%EA%B5%AD%EC%96%B4)
+
 NeWCheers is a SwiftUI-based iOS project that experiments with the flow of exchanging cheering messages with team members.
 
 ### Main screen
@@ -51,6 +55,8 @@ NeWCheers is a SwiftUI-based iOS project that experiments with the flow of excha
 -Xcode
 
 ## 한국어
+
+[日本語](https://github.com/hjy0221/NewCheers#%E6%97%A5%E6%9C%AC%E8%AA%9E) · [English](https://github.com/hjy0221/NewCheers#english) · [한국어](https://github.com/hjy0221/NewCheers#%ED%95%9C%EA%B5%AD%EC%96%B4)
 
 NeWCheers는 팀원과 응원 메시지를 주고받는 흐름을 실험한 SwiftUI 기반 iOS 프로젝트입니다.
 
